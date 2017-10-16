@@ -15,3 +15,6 @@ Stochastic:
 https://machinelearningmastery.com/linear-regression-tutorial-using-gradient-descent-for-machine-learning/
 
 http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php
+
+Simple:
+https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
